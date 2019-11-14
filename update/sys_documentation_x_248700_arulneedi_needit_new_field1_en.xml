@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_field1" label="New Field1" language="en" table="x_248700_arulneedi_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_field1</element>
+            <help/>
+            <hint/>
+            <label>New Field1</label>
+            <language>en</language>
+            <name>x_248700_arulneedi_needit</name>
+            <plural>New Field1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 05:08:46</sys_created_on>
+            <sys_id>932c59eedb8d8010c0858632399619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Field1</sys_name>
+            <sys_package display_value="ArulNeedIT" source="x_248700_arulneedi">906a914edb814010c085863239961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ArulNeedIT">906a914edb814010c085863239961971</sys_scope>
+            <sys_update_name>sys_documentation_x_248700_arulneedi_needit_new_field1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 05:08:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
