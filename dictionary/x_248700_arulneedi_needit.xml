@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_248700_arulneedi_needit" type="collection">
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_248700_arulneedi_needit" sizeclass="6" type="collection">
         <element label="New Field1" max_length="40" name="new_field1" type="integer"/>
         <element label="New Field2" max_length="40" name="new_field2" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_3" type="string">
@@ -12,6 +12,7 @@
         <element label="New Due Date" max_length="40" name="u_due_date_2" type="due_date"/>
         <element attributes="edge_encryption_enabled=true" label="When needed" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
         <element label="New Field3" max_length="40" name="u_new_field_3" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
         <element attributes="encode_utf8=false" label="Requested for" max_length="32" name="u_requested_for" reference="cmdb_ci_appl_dot_net" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="legal" label="Request type" mandatory="true" max_length="40" name="u_request_type" type="string">
             <choice>

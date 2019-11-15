@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>state</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-14 11:35:44</sys_created_on>
+        <sys_id>4f84f2eedbc1c010c085863239961951</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="ArulNeedIT" source="x_248700_arulneedi">906a914edb814010c085863239961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ArulNeedIT">906a914edb814010c085863239961971</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4f84f2eedbc1c010c085863239961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-14 11:39:20</sys_updated_on>
+        <table>x_248700_arulneedi_needit</table>
+        <ui_policy display_value="Disable Fields 2">8f33be6edbc1c010c08586323996192a</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
